@@ -1,4 +1,4 @@
-> **Note:** This is a copy of [davidmokos/expo-gpt-live](https://github.com/davidmokos/expo-gpt-live), kept for AI code-review research. All credit goes to the original authors. Licensed under the original [MIT License](./LICENSE). See [UPSTREAM.md](./UPSTREAM.md) for details.
+> **Note:** This is a copy of [davidmokos/expo-gpt-live](https://github.com/davidmokos/expo-gpt-live). All credit goes to the original authors. Licensed under the original [MIT License](./LICENSE). See [UPSTREAM.md](./UPSTREAM.md) for details.
 
 <img src="assets/images/live-icon.png" alt="Live app icon" width="128" height="128" />
 

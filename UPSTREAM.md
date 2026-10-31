@@ -1,6 +1,6 @@
 # Upstream / Attribution
 
-This repository is a copy of **[davidmokos/expo-gpt-live](https://github.com/davidmokos/expo-gpt-live)**, used for an AI code-review research project.
+This repository is a copy of **[davidmokos/expo-gpt-live](https://github.com/davidmokos/expo-gpt-live)**.
 
 - Original repository: https://github.com/davidmokos/expo-gpt-live
 - Copied from branch `main` at commit [`9e83073ef5b3`](https://github.com/davidmokos/expo-gpt-live/commit/9e83073ef5b3a986124d9141271c09443cbe8d5b) on 2026-10-31
