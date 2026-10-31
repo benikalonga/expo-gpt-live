@@ -39,18 +39,15 @@
     "typescript": "~6.0.3"
   },
   "scripts": {
-    "setup": "node scripts/setup.mjs",
     "start": "expo start --dev-client --port 8088 --lan",
-    "ios": "python3 scripts/build-ios.py --port 8088",
-    "ios:device": "python3 scripts/build-ios.py --port 8088 --device",
+    "ios": "expo run:ios --port 8088",
     "android": "expo run:android --port 8088",
     "web": "expo start --web --port 8088",
     "test": "tsx --test tests/*.test.ts",
     "typecheck": "tsc --noEmit",
     "format": "prettier --write . --ignore-path .gitignore",
     "format:check": "prettier --check . --ignore-path .gitignore",
-    "check": "npm run typecheck && npm test && npm run format:check",
-    "eas-build-post-install": "python3 scripts/eas-post-install.py"
+    "check": "npm run typecheck && npm test && npm run format:check"
   },
   "private": true,
   "description": "Expo SDK 57 voice app with GPT-Live 1 and AI Elements Persona.",
